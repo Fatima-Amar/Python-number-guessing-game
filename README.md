@@ -18,3 +18,10 @@ User input & validation
 
 Python random module
 </p>
+
+<p> ## How to Run
+
+1. Make sure Python is installed
+2. Run the file:
+
+python python_game.py</p>
