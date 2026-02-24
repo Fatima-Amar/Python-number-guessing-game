@@ -24,4 +24,6 @@ Python random module
 1. Make sure Python is installed
 2. Run the file:
 
-python python_game.py</p>
+python python_game.py
+<br>
+Author - Fatima Amar</p>
